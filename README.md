@@ -1,5 +1,3 @@
-Yash Ananda Wafekar
-email - yashwafekar@gmail.com
 
 Sentiment_Analyser_App
 This is a Streamlit application that uses the OpenAI's Model to create a chat interface similar to Chatbot. The application also uses the NLTK library to perform sentiment analysis on the assistant's responses.
