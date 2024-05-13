@@ -5,4 +5,4 @@ COPY req.txt /app/
 
 RUN pip install -r /app/req.txt
 
-CMD [ "python3","/app/app.py" ]
+CMD [ "streamlit","run","/app/app.py","--server.port","8000" ]
