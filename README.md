@@ -43,9 +43,17 @@ cd tp_19
 bash build.sh
 ```
 
-#### **To start the application run**
+#### **To start the application run (First time only)**
 ```
 bash tp.sh
+```
+#### **To run it again**
+```
+docker start tp_19_docker
+```
+### **To Stop it run**
+```
+docker stop tp_19_docker
 ```
 
 ### Key Features
